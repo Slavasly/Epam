@@ -5,7 +5,5 @@ on this their choosing battlefield
 
 Form the lines
 Shield by shield
-
-create a feture branch
-+++++++++++++++++++
-create a feature branch commit
+--------------------
+add comment on feature brcanch
