@@ -8,4 +8,4 @@ Shield by shield
 
 create a feture branch
 +++++++++++++++++++
-create a master branch
+create a feature branch commit
